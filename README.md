@@ -1,3 +1,7 @@
+## Dashboard Preview
+![Dashboard](screenshots/Dashboard Detailed Page.png)
+
+
 HR Attrition Analysis Dashboard
 Overview
 This project analyzes employee attrition patterns using the IBM HR Analytics Employee Attrition & Performance dataset. The goal was to identify key reasons why employees leave the company and provide actionable recommendations to reduce turnover.
