@@ -1,5 +1,6 @@
 ## Dashboard Preview
-![Dashboard](DashBoard Main Page.png)
+## Dashboard Preview
+![Dashboard](DashBoard%20Main%20Page.png)
 
 
 HR Attrition Analysis Dashboard
