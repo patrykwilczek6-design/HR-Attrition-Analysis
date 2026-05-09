@@ -1,6 +1,6 @@
 ## Dashboard Preview
 ![Main Dashboard](Main_SC.png)
-![Departments](Departments_sc.png)
+![Departments](Departments_SC.bmp)
 
 
 HR Attrition Analysis Dashboard
