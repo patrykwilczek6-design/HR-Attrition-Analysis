@@ -1,5 +1,5 @@
 ## Dashboard Preview
-![Main Dashboard](Main_SC.png)
+![Main Dashboard](Main_SC.bmp)
 ![Departments](Departments_SC.bmp)
 
 
